@@ -3,6 +3,7 @@
 | Model Name | hit_rate@100 | recall@100 | ndcg@100 |
 |---|---:|---:|---:|
 | **SasRec(MultiPositive: L1)** | **0.415247** | **0.149186** | **0.058068** |
+| SasRec(Two Tower + BatchLogQ) | 0.409544 | 0.146159 | 0.054784 |
 | SasRec(Two Tower) | 0.399469 | 0.141203 | 0.053843 |
 | SasRec(MultiPositive: L2) | 0.399166 | 0.140376 | 0.054784 |
 | SasRec(GPT Style) | 0.371360 | 0.126227 | 0.049077 |
