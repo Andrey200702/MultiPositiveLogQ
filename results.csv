@@ -15,3 +15,4 @@ SasRec(MultiPositive: L1),0.415247,0.149186,0.058068
 SasRec(MultiPositive: L2),0.399166,0.140376,0.054784
 SasRec(Two Tower + BatchLogQ),0.410103,0.146749,0.055974
 SasRec(Two Tower + CountW),0.406228,0.144716,0.055805
+SasRec(MultiPositive: L1) + BatchLogQ,0.425860,0.154506,0.060451
