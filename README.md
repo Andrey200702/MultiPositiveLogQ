@@ -5,6 +5,7 @@
 | **SasRec(MultiPositive: L1) + BatchLogQ** | **0.425860** | **0.154506** | **0.060451** |
 | SasRec(MultiPositive: L1) | 0.415247 | 0.149186 | 0.058068 |
 | SasRec(Two Tower + BatchLogQ) | 0.410103 | 0.146749 | 0.055974 |
+| SasRec(MultiPositive: L2) + BatchLogQ | 0.409417 | 0.145683 | 0.057203 |
 | SasRec(Two Tower + CountW) | 0.406228 | 0.144716 | 0.055805 |
 | SasRec(Two Tower) | 0.400922 | 0.141965 | 0.053843 |
 | SasRec(MultiPositive: L2) | 0.399166 | 0.140376 | 0.054784 |
